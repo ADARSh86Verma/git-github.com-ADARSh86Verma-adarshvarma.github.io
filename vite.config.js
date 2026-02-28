@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
 
   // ⭐ GitHub Pages ke liye
-  base: "/",
+  base: "/git-github.com-ADARSh86Verma-adarshvarma.github.io",
 
   server: {
     port: 5173,
