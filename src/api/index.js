@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost/school-erp/backend';
+const BASE_URL = 'https://school-erp.kesug.com/backend';
 
 const api = axios.create({
   baseURL: BASE_URL,
